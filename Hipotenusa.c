@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Hace el calculo de una hipotenusa por la longitud de los catetos//
 main(){
 float Cateto1;
 float Cateto2;
@@ -14,3 +15,4 @@ Hipotenusa =  sqrt((Cateto1*Cateto1)+(Cateto2*Cateto2));
 
 printf("La hipotenusa es: %.2f \n", Hipotenusa);
 }
+
