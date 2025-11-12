@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Convierte centimetros a pulgadas//
 
 int main()
 {
@@ -10,3 +11,4 @@ int main()
     Resultado=Valor/2.54;
     printf("El resultado es: %f \n", Resultado );
 }
+
