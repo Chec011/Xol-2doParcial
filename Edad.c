@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice si una persona es mayor de edad por el año de nacimiento//
 main(){
 int AN;
 int AA;
@@ -14,3 +15,4 @@ Edad = (AA-AN);
 
 printf("Tu edad es de: %d", Edad);
 }
+
