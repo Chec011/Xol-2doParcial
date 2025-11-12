@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Ordena tres numeros de mayor a menor//
 main(){
 float N1;
 float N2;
@@ -66,3 +67,4 @@ Nmenor = N1;
 }
 printf("Los numeros ordenados de mayor a menor son: %.2f, %.2f, %.2f, \n", N1,N2,N3);
 }
+
