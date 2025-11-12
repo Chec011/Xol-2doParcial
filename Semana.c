@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te pide un numero y te dice que dia es//
 main()
 {
     int Dia;
@@ -41,3 +42,4 @@ main()
         break;
     }
 }
+
