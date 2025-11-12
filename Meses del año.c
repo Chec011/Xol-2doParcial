@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te pide una opcion y te dice el mes que es en base al numero escogido//
 main(){
 int mes;
 
@@ -61,3 +62,4 @@ int mes;
         break;
     }
 }
+
