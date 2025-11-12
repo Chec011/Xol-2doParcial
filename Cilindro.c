@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dael areay volumen de un cilindro//
 main(){
 float Radio;
 float Altura;
@@ -21,3 +22,4 @@ Volumen = (Pi*(Radio*Radio)*Altura);
 printf("El area es de: %.2f \n", Area);
 printf("El volumen es de: %.2f \n", Volumen);
 }
+
