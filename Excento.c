@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice si un alumno esta excento//
 main()
 {
     float C1;
@@ -33,3 +34,4 @@ main()
     }
 
 }
+
