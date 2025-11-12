@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te da el promedio de 4 calificaciones//
 main(){
 float Calificacion1;
 float Calificacion2;
@@ -21,3 +22,4 @@ if(Promedio>6){
     printf("Estas reprobado");
 }
 }
+
