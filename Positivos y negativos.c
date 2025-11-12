@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Pide tres numeros, si el primero es negativo los multiplica y si es positivo los suma//
 main()
 {
     int Numero1;
@@ -36,3 +37,4 @@ main()
         break;
     }
 }
+
