@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice si el alumno en que examen esta el alumno o si esta excento//
 main(){
 float Calificacion1;
 float Calificacion2;
@@ -24,3 +25,4 @@ printf("Estas excento \n");
 printf("Haras ordinario \n");
 }
 }
+
