@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Dice si un alumno esta aprobado o reprobado//
 main()
 {
     float Calificacion1;
@@ -25,3 +26,4 @@ main()
         printf("Estas reprobado");
     }
 }
+
